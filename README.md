@@ -1,6 +1,6 @@
-# 📊 Data Analysis Portfolio - Netflix Shows 🍿  
+# 📊 Data Analytics Portfolio - Netflix Shows 🍿  
 
-Welcome to my data analysis portfolio! Here, I dive into the world of Netflix shows, uncovering interesting insights and trends using data analysis. 📈✨  
+Welcome to my data analytics portfolio! Here, I dive into the world of Netflix shows, uncovering interesting insights and trends using data analytics. 📈✨  
 
 ## 🎬 About This Project  
 
